@@ -1,4 +1,4 @@
-# Scaler Learner Clustering & Company Profiling
+# Learner Clustering & Company Profiling
 ## Objective
 Scaler, a tech-versity by InterviewBit, offers advanced computer science and data science courses aimed at upskilling software professionals. As part of the analytics team, your task is to profile the best companies and job positions using learner data.
 
